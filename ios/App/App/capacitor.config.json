@@ -1,0 +1,6 @@
+{
+  "appId": "com.artechnology.winess",
+  "appName": "Winess",
+  "bundledWebRuntime": false,
+  "webDir": "www"
+}
